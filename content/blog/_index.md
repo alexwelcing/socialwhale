@@ -1,14 +1,14 @@
 ---
-title: Blog
-description: A list of Indiego blog posts
+title: Commentary
+description: Coverage of the latest pro tourneys, trades, and sponsorships.
 menu: secondary
-date: 2018-02-09T19:21:11Z
-image: 
-imageAlt: 
-imageCap: 
+date: 2020-20-10T19:21:11Z
+image:
+imageAlt:
+imageCap:
 draft: false
 ---
 
-# Blog page
+# Commentary Posts
 
-A list of blog posts, with a bit more detail and a link.
+A list of Commentary posts, with a bit more detail and a link.
