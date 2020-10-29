@@ -6,7 +6,7 @@ Socially aware Hugo blog starter kit, with modular CSS gulp.js workflow
 
 ![Indiego logo](themes/go/static/assets/img/logo.png)
 
-“I just didn't add anything to make it slow.”  
+“I just didn't add anything to make it slow.”
 Taking inspiration from [Phil Hawksworth](https://mobile.twitter.com/philhawksworth/status/1038440732741259265)
 
 ### Version: 0.1.8
@@ -26,7 +26,7 @@ Taking inspiration from [Phil Hawksworth](https://mobile.twitter.com/philhawkswo
 3. Add your details to [`config.yml`](https://github.com/growdigital/indiego/blob/master/config.yml)
 4. Change directory, run `hugo serve`
 5. In new terminal, cd `themes/go/`
-6. Run `npm install` 
+6. Run `npm install`
 7. Run `gulp`. A [Browserync](https://www.browsersync.io/) window should open.
 8. Add content. Design your theme. The world is your oyster 🐚
 
@@ -53,12 +53,6 @@ Full documentation is on the [Hugo website](https://gohugo.io/content-management
   5. Utilities (trumping !important)
   6. Shameful
 * A simple [Gulp](https://gulpjs.com/) taskrunner concatenates the individual modules into `app.css`, `app.js` and `assets` in the `go/static` directory. These are then copied to `public` when you run `hugo serve`
-* Set your own base settings in `go/src/assets/css/settings` 
+* Set your own base settings in `go/src/assets/css/settings`
 * Create your own modules in `go/src/modules`
 * Keep `gulp` running in one terminal and `hugo serve` in another to preview changes automatically.
-
-## To publish changes
-
-* If you originally used the [Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/growdigital/indiego) button, then every time you `git push`, your website will be automatically deployed. Magic 🙂
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/growdigital/indiego)

@@ -1,13 +1,13 @@
 baseURL: https://thebeluga.pro
 languageCode: en-GB
-title: Worst Coach seeking Best Team
+title: Beluga Gaming
 theme: go
 pluralizeListTitles: false
 copyright: This work is dual-licensed under MIT & GPL v3
 paginate: 2
 summaryLength: 13
 author:
-  name: Alex Welcing
+  name: Alex
   email: aw@atrispina.com
 taxonomies:
   tag: tags
@@ -17,9 +17,5 @@ params:
   publisherLogo: assets/img/logo.png
   publisherLogoWidth: 220
   publisherLogoHeight: 220
-  twitter: Alex
-  facebook: Alex
-  email: hello@indiego.org.uk
-  googleplus: NA
-  fbapp_id: NA
-  tel: "+NA"
+  twitter: AlexWelcing
+  email: aw@atrispina.com

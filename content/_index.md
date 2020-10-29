@@ -3,7 +3,7 @@ title: Beluga Gaming
 description: Home of the biggest whale hunter in esports, working with pros to professionalize the industry.
 menu: main
 date: 2020-20-10T19:21:11Z
-image: socialwhale\static\assets\img\Pathfinder_Snipe.PNG
+image: /assets/img/Pathfinder_Snipe.PNG
 imageAlt: Apex Legends image capture of The Beluga aiming towards a Caustic gas cloud with two enemies showing a recent elimination.
 draft: false
 ---
